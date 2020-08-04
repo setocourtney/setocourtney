@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **setocourtney/setocourtney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Banner Image Title](./background.png)
+
+### Hi there 👋
+
+I am a detail oriented and curious full stack web developer with a background in process improvement and data analytics.
+
+After earning a B.S. in Industrial & Systems Engineering from the University of Washington, I took my education a step further by completing the UW Full Stack Development Bootcamp to indulge my love of coding and gain the skills needed to apply my systems thinking and passion for optimization to develop solutions to real world problems.
+
+When I am not working on a side project or growing my tech stack, you can probably find me meticulously planning my next travel / ebike adventure, reading about a fantastical magic land, or volunteering with one of my favorite organizations for STEM education outreach.
+
+## 📬 Connect
+
+* Web: [courtneyseto.com](https://www.courtneyseto.com)
+* LinkedIn: [linkedin.com/in/courtneyseto](linkedin.com/in/courtneyseto)
