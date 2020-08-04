@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-I am a detail oriented and curious full stack web developer with a background in process improvement and data analytics.
+I am a detail oriented and super curious full stack web developer with a background in process improvement and data analytics.
 
 After earning a B.S. in Industrial & Systems Engineering from the University of Washington, I took my education a step further by completing the UW Full Stack Development Bootcamp to indulge my love of coding and gain the skills needed to apply my systems thinking and passion for optimization to develop solutions to real world problems.
 
@@ -30,16 +30,16 @@ When I am not working on a side project or growing my tech stack, you can probab
 
 ## ⚡ Tech Stack
 
-# Languages:
+Languages:
 * JavaScript, HTML, CSS, Sass, Python, Java, R, VBA, PHP
 
-# Frameworks & Libraries:
+Frameworks & Libraries:
 * React.js, Node.js, Django, ES6, jQuery, JSX, AJAX, JSON, Express.js, Handlebars, Material UI, Bootstrap
 
-# Tools & Technologies:
+Tools & Technologies:
 * Git, Docker, Heroku, RESTful APIs, Webpack, WordPress, Passport Authentication
 
-# Data:
+Data:
 * SQL, NoSQL, MySQL, MongoDB, PostgreSQL, IndexedDB, Tableau, Sequelize.js, Mongoose.js 
 
 ## 🌱 Current Curiosities
