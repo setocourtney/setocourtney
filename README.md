@@ -27,3 +27,22 @@ When I am not working on a side project or growing my tech stack, you can probab
 
 * Web: [courtneyseto.com](https://www.courtneyseto.com)
 * LinkedIn: [linkedin.com/in/courtneyseto](linkedin.com/in/courtneyseto)
+
+## ⚡ Tech Stack
+
+# Languages:
+* JavaScript, HTML, CSS, Sass, Python, Java, R, VBA, PHP
+
+# Frameworks & Libraries:
+* React.js, Node.js, Django, ES6, jQuery, JSX, AJAX, JSON, Express.js, Handlebars, Material UI, Bootstrap
+
+# Tools & Technologies:
+* Git, Docker, Heroku, RESTful APIs, Webpack, WordPress, Passport Authentication
+
+# Data:
+* SQL, NoSQL, MySQL, MongoDB, PostgreSQL, IndexedDB, Tableau, Sequelize.js, Mongoose.js 
+
+## 🌱 Current Curiosities
+
+* AWS ECS
+* GraphQL
