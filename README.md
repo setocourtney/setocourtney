@@ -23,24 +23,17 @@ After earning a B.S. in Industrial & Systems Engineering from the University of 
 
 When I am not working on a side project or growing my tech stack, you can probably find me meticulously planning my next travel / ebike adventure, reading about a fantastical magic land, or volunteering with one of my favorite organizations for STEM education outreach.
 
-## 📬 Connect
+## 📬 Let's Connect!
 
 * Web: [courtneyseto.com](https://www.courtneyseto.com)
 * LinkedIn: [linkedin.com/in/courtneyseto](linkedin.com/in/courtneyseto)
 
 ## ⚡ Tech Stack
 
-Languages:
-* JavaScript, HTML, CSS, Sass, Python, Java, R, VBA, PHP
-
-Frameworks & Libraries:
-* React.js, Node.js, Django, ES6, jQuery, JSX, AJAX, JSON, Express.js, Handlebars, Material UI, Bootstrap
-
-Tools & Technologies:
-* Git, Docker, Heroku, RESTful APIs, Webpack, WordPress, Passport Authentication
-
-Data:
-* SQL, NoSQL, MySQL, MongoDB, PostgreSQL, IndexedDB, Tableau, Sequelize.js, Mongoose.js 
+* Languages: JavaScript, HTML, CSS, Sass, Python, Java, R, VBA, PHP
+* Frameworks & Libraries: React.js, Node.js, Django, ES6, jQuery, JSX, AJAX, JSON, Express.js, Handlebars, Material UI, Bootstrap
+* Tools & Technologies: Git, Docker, Heroku, RESTful APIs, Webpack, WordPress, Passport Authentication
+* Data: SQL, NoSQL, MySQL, MongoDB, PostgreSQL, IndexedDB, Tableau, Sequelize.js, Mongoose.js 
 
 ## 🌱 Current Curiosities
 
