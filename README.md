@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Banner Image Title](./background.png)
+![Banner](https://res.cloudinary.com/courtney-seto/image/upload/v1596584555/github-banner_zacieu.png)
 
 ### Hi there 👋
 
