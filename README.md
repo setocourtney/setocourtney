@@ -39,3 +39,4 @@ When I am not working on a side project or growing my tech stack, you can probab
 
 * AWS ECS
 * GraphQL
+* Machine Learning
