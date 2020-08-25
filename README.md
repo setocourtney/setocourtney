@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-I am a detail oriented and super curious full stack web developer with a background in process improvement and data analytics.
+I am a detail oriented and super curious full stack problem solver with a background in process improvement and data analytics.
 
 After earning a B.S. in Industrial & Systems Engineering from the University of Washington, I took my education a step further by completing the UW Full Stack Development Bootcamp to indulge my love of coding and gain the skills needed to apply my systems thinking and passion for optimization to develop solutions to real world problems.
 
